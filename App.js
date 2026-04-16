@@ -16,7 +16,7 @@ export default function App() {
       
       <View >
         <View >
-          <Text >Seletor de Cores</Text>
+          <Text >Seletor de Coress</Text>
           <Text ></Text>
           <Text ></Text>
         </View>
